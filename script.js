@@ -5,8 +5,4 @@ function Convert(num) {
 
 }
 
-console.log(Convert(142));
-
-function convertToHours() {
-  
-}
+Convert(142);
