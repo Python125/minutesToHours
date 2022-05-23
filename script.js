@@ -5,4 +5,4 @@ function Convert(num) {
 
 }
 
-Convert();
+Convert(90);
